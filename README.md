@@ -1,1 +1,1 @@
-This is a website gallery for anime lovers
+This is a website gallery for anime lovers.
