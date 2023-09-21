@@ -107,10 +107,64 @@ body, html {
     background-image: url("/images/dragon-ball.jpg");
   }
 
+  #section22 {
+    background-image: url("/images/monster.jpg");
+  }
+
+  #section23 {
+    background-image: url("/images/cowboy.jpg");
+  }
+
+  #section24 {
+    background-image: url("/images/fullmetal.jpg");
+  }
+  
+  #section25 {
+    background-image: url("/images/eva.jpg");
+  }
+  
+  #section26 {
+    background-image: url("/images/one.jpg");
+  }
+  
+  #section27 {
+    background-image: url("/images/hunter.jpg");
+  }
+
+  #section28{
+    background-image: url("/images/saga.jpg");
+  }
+
+  #section29{
+    background-image: url("/images/stein.jpg");
+  }
 
   
-  
-  
+  #section30{
+    background-image: url("/images/love.jpg");
+  }
+
+  #section31{
+    background-image: url("/images/berserk.jpg");
+  }
+
+  #section32{
+    background-image: url("/images/fate.jpg");
+  }
+
+  #section33{
+    background-image: url("/images/code.jpg");
+  }
+
+  #section34{
+    background-image: url("/images/lagoon.jpg");
+  }
+
+  #section35{
+    background-image: url("/images/gintama.jpg");
+  }
+
+    
   .content {
     position: absolute;
     top: 50%;
