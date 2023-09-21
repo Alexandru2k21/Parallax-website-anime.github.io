@@ -1,0 +1,161 @@
+body, html {
+    margin: 0;
+    padding: 0;
+  }
+  
+  .section {
+    min-height: 100vh;
+    width: 100%;
+    position: relative;
+    font-weight: bold;
+    background-size: cover;
+  background-repeat: no-repeat;
+    
+  }
+  
+  .parallax {
+    background-attachment: fixed;
+  }
+  
+  #section1 {
+    background-image: url("/images/naruto.jpeg");
+  }
+  
+  #section2 {
+
+    background-image: url("/images/aot.jpg");
+  }
+  
+  #section3 {
+    background-image: url("/images/mha.jpg");
+  }
+
+  #section4 {
+    background-image: url("/images/blue-lock.jpg");
+  }
+
+  #section5 {
+    background-image: url("/images/dorohedoro.jpg");
+  }
+
+  #section6 {
+    background-image: url("/images/chainsawman.jpg");
+  }
+
+  #section7 {
+    background-image: url("/images/jjk.jpg");
+  }
+  
+
+  #section8 {
+    background-image: url("/images/hells-paradise2.jpg");
+
+    height: 1080px;
+    width: 1920px;
+  }
+  
+
+  #section9 {
+    background-image: url("/images/solo-leveling.jpg");
+  }
+
+  #section10 {
+    background-image: url("/images/dororo.jpg");
+  }
+
+  #section11 {
+    background-image: url("/images/one-piece.jpg");
+  }
+
+  #section12 {
+    background-image: url("/images/death-note.jpg");
+  }
+
+  #section13 {
+    background-image: url("/images/death-parade.jpg");
+  }
+  
+  #section14 {
+    background-image: url("/images/jojo.jpg");
+  }
+
+  #section15 {
+    background-image: url("/images/koruko.jpg");
+  }
+
+  #section16 {
+    background-image: url("/images/demon-slayer.jpg");
+  }
+
+  #section17 {
+    background-image: url("/images/bleach.jpg");
+  }
+
+  #section18 {
+    background-image: url("/images/hellsing.jpg");
+  }
+
+  #section19 {
+    background-image: url("/images/fire-force.jpg");
+  }
+
+  #section20 {
+    background-image: url("/images/tokyo-ghoul.jpg");
+  }
+
+  #section21 {
+    background-image: url("/images/dragon-ball.jpg");
+  }
+
+
+  
+  
+  
+  .content {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    text-align: center;
+  }
+  
+  h1 {
+    font-size: 4rem;
+    color: rgb(255, 255, 255);
+  }
+  
+  p {
+    font-size: 1.5rem;
+    color: rgb(255, 255, 255);
+  }
+
+
+  /* Responsive styling */
+@media only screen and (max-width: 1200px) {
+    h1 {
+      font-size: 3rem;
+    }
+    p {
+      font-size: 1.2rem;
+    }
+  }
+  
+  @media only screen and (max-width: 768px) {
+    h1 {
+      font-size: 2rem;
+    }
+    p {
+      font-size: 1rem;
+    }
+  }
+  
+  @media only screen and (max-width: 480px) {
+    h1 {
+      font-size: 1.5rem;
+    }
+    p {
+      font-size: 0.9rem;
+    }
+  }
+
+ 
